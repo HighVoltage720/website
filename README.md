@@ -1,7 +1,5 @@
 # My Website
 
-some changes
+This is an awesome website
 
-
-
-a new edit
+another commit
